@@ -19,7 +19,8 @@ For this project we had to answer several questions like:
 
 - We also wanted to determine for how many mintues do customers use the bike for. In the following graph we can see that around 140,000 users use the bikes for approximately 10 minutes.
 ![](graphs/CheckoutTimebyUsers.png)
-- We've also included a Checkout graph by gender:
+
+- We've also included a Checkout graph by gender, as we can see on most men spend 5 minutes on their trips, females also spend 5 and unknown spend 10 :
 ![](graphs/CheckoutByGender.png)
 
 - Trips by gender graph: 
