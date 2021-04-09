@@ -17,16 +17,17 @@ For this project we had to answer several questions like:
 ![](graphs/NumberofRidesbyGender.png)
 - Of all the customers 1,530,272 are male, 588,431 are female and 225,521 are unknown. 
 
-- We also wanted to determine for how many mintues do customers use the bike for. In the following graph we can see that around 140,000 users use the bikes for approximately 10 minutes.
+- We also wanted to determine for how many mintues do customers use the bike for. In the following graph we can see that around 140,000 users use the bikes for approximately 5 minutes.
 ![](graphs/CheckoutTimebyUsers.png)
 
 - We've also included a Checkout graph by gender, as we can see on most men spend 5 minutes on their trips, females also spend 5 and unknown spend 10 :
 ![](graphs/CheckoutByGender.png)
 
-- Trips by gender graph: 
+- Trips by gender graph during Weekday shows that the busiest hours are during 7:00 am - 8:00am and 5:00pm, 6:00pm and 7:00pm. The reason may be that this are starting and ending office hours and most people use Citi Bikes as a form of transportation.  
 ![](graphs/TripsbyGender.png)
 
 - In this part of the analysis we wanted to determine what hours of the day had the largest demand for bikes, this could also help us to determine when to do maintenance on the bikes:
+- As we can see 
 ![](graphs/TripsbyWorkdayperHour.png)
 
 -
