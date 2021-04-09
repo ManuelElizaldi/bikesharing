@@ -7,6 +7,7 @@ The objective of this project is to make a business proposal for a bike sharing 
 For this project we had to answer several questions like: 
 - How many customers use this service?
 - How many customers are long term subscribers of this service and how many are short term? 
+
 ![](graphs/TypesofCustomers.png)
  - Based on the previous Graph we can see that, 433,865 customers are short term users and 1,900,359 are subscribers.
  
@@ -22,8 +23,10 @@ For this project we had to answer several questions like:
 - Trips by gender graph: 
 ![](graphs/TripsbyGender.png)
 
+- In this part of the analysis we wanted to determine what hours of the day had the largest demand for bikes, this could also help us to determine when to do maintenance on the bikes:
 ![](graphs/TripsbyWorkdayperHour.png)
 
+-
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
