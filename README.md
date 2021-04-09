@@ -1,14 +1,29 @@
 # Bikesharing
 ## Overview of the project
-The objective of this project is to make a business proposal for a bike sharing app in Des Moines, Iowa using NYC Citi Bike dataset as a starting point
+The objective of this project is to make a business proposal for a bike sharing app in Des Moines, Iowa using NYC Citi Bike dataset as a starting point to determine based on a statistical analysis if it's a good idea to undertake this project.
 
 ## Overview of the statistical analysis:
-![](graphs/CheckoutByGender.png)
-![](graphs/CheckoutTimebyUsers.png)
-![](graphs/NumberofRidesbyGender.png)
-![](graphs/TripsbyGender.png)
-![](graphs/TripsbyWorkdayperHour.png)
+
+For this project we had to answer several questions like: 
+- How many customers use this service?
+- How many customers are long term subscribers of this service and how many are short term? 
 ![](graphs/TypesofCustomers.png)
+ - Based on the previous Graph we can see that, 433,865 customers are short term users and 1,900,359 are subscribers.
+ 
+
+![](graphs/NumberofRidesbyGender.png)
+- Of all the customers 1,530,272 are male, 588,431 are female and 225,521 are unknown. 
+
+- We also wanted to determine for how many mintues do customers use the bike for. In the following graph we can see that around 140,000 users use the bikes for approximately 10 minutes.
+![](graphs/CheckoutTimebyUsers.png)
+- We've also included a Checkout graph by gender:
+![](graphs/CheckoutByGender.png)
+
+- Trips by gender graph: 
+![](graphs/TripsbyGender.png)
+
+![](graphs/TripsbyWorkdayperHour.png)
+
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
