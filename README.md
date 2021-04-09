@@ -28,18 +28,13 @@ For this project we had to answer several questions like:
 
 -We did the same graph but filtering by gender, as we can see the pattern is repeated across al genders. 
 ![](graphs/TripsbyGender.png)
+- This part of the analysis can also help us determine when to do maintenance, according to this graphs, maintenance should be donde during 1:00 am and 2:00am
 
-- In this part of the analysis we wanted to determine what hours of the day had the largest demand for bikes, this could also help us to determine when to do maintenance on the bikes:
-- As we can see 
+
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
 
 
