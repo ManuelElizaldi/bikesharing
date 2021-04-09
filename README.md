@@ -24,18 +24,20 @@ For this project we had to answer several questions like:
 ![](graphs/CheckoutByGender.png)
 
 - Trips by gender graph during Weekday shows that the busiest hours are during 7:00 am - 8:00am and 5:00pm, 6:00pm and 7:00pm. The reason may be that this are starting and ending office hours and most people use Citi Bikes as a form of transportation.  
+- This part of the analysis can also help us determine when to do maintenance, according to this graphs, maintenance should be donde during 1:00 am and 2:00am
 ![](graphs/TripsbyWorkdayperHour.png)
 
 -We did the same graph but filtering by gender, as we can see the pattern is repeated across al genders. 
 ![](graphs/TripsbyGender.png)
-- This part of the analysis can also help us determine when to do maintenance, according to this graphs, maintenance should be donde during 1:00 am and 2:00am
 
 
+- Following the same analysis we wanted to see what days are the busiest.
+- As we can see the busiest days  
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
 
-
+![]()
 
 
 
