@@ -1,6 +1,8 @@
 # Bikesharing
 ## Overview of the project
-The objective of this project is to make a business proposal for a bike sharing app in Des Moines, Iowa using NYC Citi Bike dataset as a starting point to determine based on a statistical analysis if it's a good idea to undertake this project.
+The objective of this project is to make a business proposal for a bike sharing app in Des Moines, Iowa using NYC Citi Bike dataset as a starting point to determine based on a statistical analysis if it's a good idea to undertake this project. 
+
+The project was uploaded to [Tableau](https://public.tableau.com/profile/manuel8857#!/vizhome/NYCCitiBikeAnalysis_16179293820200/NYCBikes). In this link you can view the different graphs used for this analysis.
 
 ## Overview of the statistical analysis:
 
@@ -42,4 +44,4 @@ There is a high-level summary of the results and two additional visualizations a
 
 
 
-[link to dashboard](https://public.tableau.com/profile/manuel8857#!/vizhome/NYCCitiBikeAnalysis_16179293820200/NYCBikes)
+
