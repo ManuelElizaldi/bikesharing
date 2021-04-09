@@ -24,13 +24,13 @@ For this project we had to answer several questions like:
 ![](graphs/CheckoutByGender.png)
 
 - Trips by gender graph during Weekday shows that the busiest hours are during 7:00 am - 8:00am and 5:00pm, 6:00pm and 7:00pm. The reason may be that this are starting and ending office hours and most people use Citi Bikes as a form of transportation.  
+![](graphs/TripsbyWorkdayperHour.png)
+
+-We did the same graph but filtering by gender, as we can see the pattern is repeated across al genders. 
 ![](graphs/TripsbyGender.png)
 
 - In this part of the analysis we wanted to determine what hours of the day had the largest demand for bikes, this could also help us to determine when to do maintenance on the bikes:
 - As we can see 
-![](graphs/TripsbyWorkdayperHour.png)
-
--
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
