@@ -3,13 +3,13 @@
 The objective of this project is to make a business proposal for a bike sharing app in Des Moines, Iowa using NYC Citi Bike dataset as a starting point
 
 ## Overview of the statistical analysis:
-[](graphs/CheckoutByGender.png)
-[](graphs/CheckoutTimebyUsers.png)
-[](graphs/NumberofRidesbyGender.png)
-[](graphs/TripsbyGender.png)
-[](graphs/TripsbyWorkdayperHour.png)
-[](graphs/TypesofCustomers.png)
-[](graphs/UserTripsbyGenderbyWeekday.png)
+![](graphs/CheckoutByGender.png)
+![](graphs/CheckoutTimebyUsers.png)
+![](graphs/NumberofRidesbyGender.png)
+![](graphs/TripsbyGender.png)
+![](graphs/TripsbyWorkdayperHour.png)
+![](graphs/TypesofCustomers.png)
+![](graphs/UserTripsbyGenderbyWeekday.png)
 
 ##Results:
 
