@@ -35,7 +35,7 @@ For this project we had to answer several questions like:
 - As we can see the busiest days are Thursdays and Fridays
 ![](graphs/UserTripsbyGenderbyWeekday.png)
 
-##Results:
+## Results:
 To determine if this is a good business proposal for the city of Des Moines further analysis has to be done. For example, we can see that the population of the city is way lower than that of NY, nonetheless we can determine that there is a large demand for this type of services and taking in consdieration that there is an upward trend in usage of sustainable transport it might be a good idea to start a Bike Sharing service in Des Moines.
 
 ![](graphs/DesMoinesPopulation.png)
