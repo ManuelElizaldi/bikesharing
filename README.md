@@ -9,6 +9,8 @@ The project was uploaded to [Tableau](https://public.tableau.com/profile/manuel8
 For this project we had to answer several questions like: 
 - How many customers use this service?
 - How many customers are long term subscribers of this service and how many are short term? 
+- What types of customers use this service?
+- What does the demand for this service looks like?
 
 ![](graphs/TypesofCustomers.png)
  - Based on the previous Graph we can see that, 433,865 customers are short term users and 1,900,359 are subscribers.
